@@ -3,4 +3,5 @@
 2. [Repetición](https://caroquimbayog.github.io/Fundamentos1/02)
 3. [Movimiento](https://caroquimbayog.github.io/Fundamentos1/03)
 4. [Herramienta de dibujo](https://caroquimbayog.github.io/Fundamentos1/04)
-4. [Tiempo](https://caroquimbayog.github.io/Fundamentos1/05)
+5. [Tiempo](https://caroquimbayog.github.io/Fundamentos1/05)
+6. [Tiempo - Imagen](https://caroquimbayog.github.io/Fundamentos1/05/imagen%20de%20noche%20.png)
