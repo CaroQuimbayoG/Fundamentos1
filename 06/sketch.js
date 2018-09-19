@@ -46,7 +46,7 @@ function setup() {
 }
 
 function mouseClicked() {
-  miCancionsita.jump(65);
+  miCancionsita.play();
 }
 
 function draw() {
